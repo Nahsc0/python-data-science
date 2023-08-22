@@ -1,4 +1,4 @@
-Certainly! Below is an example of a README.md file for your machine learning heart disease prediction project:
+
 
 ---
 
@@ -52,7 +52,7 @@ The trained model achieves an accuracy of 85% on the validation set. The ROC cur
 ![Model Performance](results/model_performance.png)
 
 ## Acknowledgments
-I would like to express our gratitude to the UCI Machine Learning Repository for providing the heart disease dataset. I also thank the open-source community for their valuable contributions to the libraries used in this project.
+I would like to express my gratitude to the UCI Machine Learning Repository for providing the heart disease dataset. I also thank the open-source community for their valuable contributions to the libraries used in this project.
 
 ---
 
