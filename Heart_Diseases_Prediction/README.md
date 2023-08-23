@@ -3,6 +3,11 @@
 ---
 
 # Heart Disease Prediction Project
+A Quick Workflow of The Project:
+ 
+   
+![Work Flow](https://github.com/Nahsc0/python-data-science/assets/106038656/c1a544fb-9149-4555-9079-b073d142d616)
+
 
 ## Project Overview
 This project aims to predict the presence or absence of heart disease in individuals using machine learning techniques. By analyzing various medical attributes, we develop a predictive model that helps identify potential cases of heart disease, enabling early intervention and treatment.
